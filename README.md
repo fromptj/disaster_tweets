@@ -5,5 +5,5 @@
 ### Repository 설명
 
 * EDA
-  * EDA 분석(/NLP-EDA.ipynb)
-  * BERT 모델 적용(/NLP-with-BERT.ipynb)
+  * [EDA 분석](/NLP-EDA.ipynb)
+  * [BERT 모델 적용](/NLP-with-BERT.ipynb)
